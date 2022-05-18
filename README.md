@@ -8,7 +8,7 @@ A web application to track inventory for Shopify or any logistic company. Built 
 4. `cd shopify-web-app`(for Windows), 'ls shopify-web-app`(Linux) to go into the "shopify-web-app" frontend directory.
 5. `npm install` to install npm modules required for the frontend.
 6. (Install) and start mongodb. By default it runs on port 27017. Database name is "Shopify". The path or name can be changed from config/config.json(Reference link to install mongodb "https://www.mongodb.com/docs/manual/installation/". For your local system you can just install MongoDB Compass and start the service and check the databases using GUI.)
-7. 
+
 ## Follow steps 7 & 8 to start the server and steps 9 & 10 to start the frontend.
 7. `cd Shopify`(for Windows), 'ls Shopify`(Linux) to go into the Shopify backend directory.
 8. To start the server use command `node app.js` or `npm start`.
