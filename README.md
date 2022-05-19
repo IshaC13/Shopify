@@ -34,3 +34,7 @@ A web application to track inventory for Shopify or any logistic company. Built 
 - An option that allows the user to download the inventory as csv/xlsx.
 - Graphical representation of the most sold item, revenue, etc over a period of time.
 The first 2 additional features will need small to moderate changes and require 3-4 days for completion). The 3rd feature will require more input data over the period as its a graphical representation.
+
+## Note
+This code for logistics inventory web application is completely working in the local system and with a few changes in the url can be used for deployment as well. As I am new to Replit, I tried creating the account and deploy the application there but couldn't find an option for angular application. While there was an option for Reactjs and no option for angular, I had to stop with the deployment. I was unable to find any tutorials for deploying a MEAN stack application on Replit.
+The application is perfectly working with all the features and several logical checks, I just need a guide or steps thats help me in deploying the MEAN application on Replit.
