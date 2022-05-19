@@ -1,3 +1,6 @@
+# Challenge link
+https://docs.google.com/document/d/1PoxpoaJymXmFB3iCMhGL6js-ibht7GO_DkCF2elCySU/edit#
+
 # Shopify
 A web application to track inventory for Shopify or any logistic company. Built with MongoDB, Express, Angular + Angular Material Design and Node (MEAN).
 
